@@ -199,7 +199,7 @@ El modelo de regresión lineal demuestra ser **efectivo** para la detección de 
 
 ---
 
-**Fecha de Análisis**: 2024  
+**Fecha de Análisis**: 2025  
 **Autor**: Sistema de Machine Learning  
 **Versión**: 1.0  
 **Estado**: Completado ✅

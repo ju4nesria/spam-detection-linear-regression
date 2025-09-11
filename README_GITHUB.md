@@ -285,7 +285,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 **ju4nesria**
 - GitHub: [@ju4nesria](https://github.com/ju4nesria)
-- Email: [tu-email@ejemplo.com]
+
 
 ## 🙏 Agradecimientos
 

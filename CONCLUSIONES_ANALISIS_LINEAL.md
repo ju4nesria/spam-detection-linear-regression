@@ -141,7 +141,6 @@ Valor Real HAM  [TN]  [FP]
 - Incluir análisis de sentimientos
 
 ### **3. Algoritmos**
-- Probar Logistic Regression (mejor para clasificación)
 - Implementar Random Forest
 - Considerar SVM con kernel RBF
 

@@ -10,8 +10,8 @@ Este script realiza un análisis completo de regresión lineal para detección d
 - Análisis de correlación con Python, Keras y sklearn
 - Generación de reportes en PDF
 
-Autor: Sistema de Machine Learning
-Fecha: 2024
+Autor: Juan Esteban Moya Riaño, Maryuri Espinosa
+Fecha: 2025
 """
 
 import pandas as pd
